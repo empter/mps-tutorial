@@ -1,6 +1,6 @@
 # Introduction
 ITensor is a c++ library for implementing tensor network calculations  easily and efficiently. The home page of [ITensor](http://itensor.org).
-It's easy to use ITensor in MacOS and Linux including the Windows subsystem for linux (WSL). This tutorial is mainly focus on the WSL alone with Ubuntu 16.04LTS which can be installed in the Windows App Store.
+It's easy to use ITensor in MacOS and Linux including the Windows subsystem for linux (WSL). This tutorial is mainly focus on the WSL alone with Ubuntu 16.04LTS which can be installed in the **Microsoft Store**. An uptodate Windows 10 is needed.
 # Prepare Ubuntu
 1. Turn on wsl:
 * Right click on **PowerShell** and select Run as Administrator.
@@ -8,7 +8,7 @@ It's easy to use ITensor in MacOS and Linux including the Windows subsystem for 
 
   `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
 * Reboot system.
-2. Search Ubuntu in the **Windows App Store** and install it.
+2. Search Ubuntu in the **Microsoft Store** and install it.
 3. Launch **bash** by the new created shortcut and creat your user name and password.
 4. Go to [wsltty repository](https://github.com/mintty/wsltty/releases) download and install the lastest release version of **wsltty**. Use **wsltty** instead of default terminal for a better experience. If no shortcut created, creat it by hand.
 * Right click on the desktop, select **New**>**Shortcut**
