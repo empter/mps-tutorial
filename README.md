@@ -72,7 +72,7 @@ It's easy to use ITensor in MacOS and Linux including the Windows subsystem for 
   wait for compile process complete.
 # Learn&Use ITensor
 # Use
-A simple DMRG code for a Ising chain can be found [here](https://pan.zju.edu.cn/share/).
+A simple DMRG code for a Ising chain can be found [here](https://github.com/empter/mps-tutorial/raw/master/dmrgsample.zip).
 Download and unzip all three files (**argv.txt**, **dmrgising</span>.cc**, and **Makefile**) to a place in **Windows**, e.g., D:\DMRG\
 
   `cd /mnt/d/DMRG`
